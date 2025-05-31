@@ -6,7 +6,7 @@ order: 4
 
 Abang Obed is a Software Security Researcher/Indie Filmmaker from Cross River, Nigeria, based in Abuja. His work lies at the intersection of technology and art — where code and cinema collide.
 
-From age 18, Obed began using programming and photographic storytelling—often through comics—as a way to express unspoken moods and ideas. By 20, he developed a storybook software that uses AI to transform real-world objects into 3D models using still images for storyboarding.
+From age 16, Obed began using programming and photographic storytelling—often through comics—as a way to express unspoken moods and ideas. By 19, he developed a storybook software that uses AI to transform real-world objects into 3D models using still images for storyboarding.
 
 With a core focus on software development and vulnerability research, Obed has identified and patched critical vulnerabilities, developed event-driven applications, and contributed to the broader cybersecurity and computing research community. At the same time, he explores narrative depth using visual storytelling through indie filmmaking and visual effects practices.
 
@@ -44,7 +44,7 @@ He also takes on commissioned and commercial projects, working with select brand
 
 ## Education, Certifications & Publications
 
-**B.Tech in Cyber Security Science**, *Federal University of Technology, Minna, Nigeria* from`2021 – 2026`  
+ - **B.Tech in Cyber Security Science**, *Federal University of Technology, Minna, Nigeria* from `2021 – 2026`  
 
 - **HackTheBox Certified Penetration Testing Specialist (CPTS)**, Issued Feb 2024:
  *Credential ID HTBCERT-2508B8ABE8Credential ID HTBCERT-2508B8ABE8*
@@ -55,10 +55,10 @@ He also takes on commissioned and commercial projects, working with select brand
 
 ##  Experience
 - Full Stack Developer 
-    - Icondigital Nigeria (From Jan 2021-Present)
+    - Icondigital Nigeria `From Jan 2021-Present`
         - Worked on: Stonerockers NG, Simdozi Limited, PhlexIT Events, Aoahomes NG, Marblefoods NG (Contract)
 - Cloud Engineer (AWS, Unity, EKS)
-    - 234coins.net  – Upwork
+    - 234coins.net  – [Upwork](https://www.upwork.com/)  `Dec 2023`
 - Security Engineer 
-    - gigafro.com
+    - gigafro.com  `From Feb 2024 - Jan 2025`
 
