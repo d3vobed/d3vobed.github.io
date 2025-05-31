@@ -4,6 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+# **Abang Obed**
+
 Abang Obed is a Software Security Researcher/Indie Filmmaker from Cross River, Nigeria, based in Abuja. His work lies at the intersection of technology and art — where code and cinema collide.
 
 From age 16, Obed began using programming and photographic storytelling—often through comics—as a way to express unspoken moods and ideas. By 19, he developed a storybook software that uses AI to transform real-world objects into 3D models using still images for storyboarding.
