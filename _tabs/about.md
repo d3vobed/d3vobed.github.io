@@ -47,7 +47,7 @@ He also takes on commissioned and commercial projects, working with select brand
  - **B.Tech in Cyber Security Science**, *Federal University of Technology, Minna, Nigeria* from `2021 – 2026`  
 
 - **HackTheBox Certified Penetration Testing Specialist (CPTS)**, Issued Feb 2024:
- *Credential ID HTBCERT-2508B8ABE8Credential ID HTBCERT-2508B8ABE8*
+ *Credential ID HTBCERT-2508B8ABE8*
 
 - Technical paper on bluetooth p2p calling on low-ble mesh structure — *(Available Soon)* 
 
