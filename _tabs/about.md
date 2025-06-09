@@ -17,36 +17,36 @@ He also takes on commissioned and commercial projects, working with select brand
 ---
 ##  Projects & Achievements
 
-- **Vulnerability Research**  
-  - GraphQL VM allocation bypass – *CodeSandbox* (Triaged)  
-  - Code injection vulnerability – *Sorare username field* (Triaged)  
+- **Vulnerability Research & Exploit Development**  
+  - GraphQL VM allocation bypass – *CodeSandbox*   [Triaged](https://github.com/codesandbox/codesandbox-client/security/advisories/GHSA-5jw5-g7mr-h26r)  
+  ![Codesandbox](/assets/img/triage.png)
   - Mobile vulnerability framework and C2 server in Go and C#  
 
-- **Video Storybook(AI Storyboarding Software)**  
-  - Converts real-world objects into 3D models or photorealistic stills for comics and films using MiDas, Tensor flow, controlNet, skia and Mlkit into wide angled shots, event continuity and dynamic motions from still images for storyboard preview for film makers.
+- **[Video Storybook](https://github.com/d3vobed/Video-Storybook)- AI Storyboarding Software**  
+  - Converts real-world objects into 3D models or photorealistic still image for storyboarding for films using MiDas, Tensor flow, controlNet, skia and Mlkit into wide angled shots, event continuity and dynamic motions from still images.
 
 
-- **DeFi Wallet**  
-  - Built an E2E mobile wallet with multi-sig support with React Native and Rust.
+- **[Rust Mobile E2E](https://github.com/d3vobed/Rust-mobile-e2e)- DeFi Wallet**  
+  - Built an E2E mobile wallet boilerplate with multi-sig support with React Native, Rust and cloudfare edge.
 
-- **SBA**  
+- **[Soccer Behavioural Analysis](https://github.com/d3vobed/SBA)- SBA**  
   - Soccer Behavioral Analysis is a mobile analysis app based on monitoring players on real time soccer matches to check for mood changes during a game to find and predict fouls, tackles (both lost and successful) and pick out players who would likely leave on loan, free or increase their market value through a certain match.
 
-- **Azure Stack USSD service**  
+- **[Azure Stack](https://github.com/d3vobed/Azure-stack-ussd) USSD service**  
   - Scalable USSD Service Using Azure Stack Hub for Enterprise Mobile Access to USSD services on network with africastalking.
 
-- **BLE Mesh Video Calling Protocol**  
-  - P2P, Low resolution and snap bitrate implementation of Bluetooth video calling using C and low BLE Mesh.
+- **[SnapBleBLE](https://github.com/d3vobed/snapBLE)- Bluetooth Video Calling Protocol**  
+  - P2P, Low resolution and snap bitrate implementation of Bluetooth video calling protocol using C and low BLE Mesh.
 
 
-- **React-OauthRouter**  
+- **[React-OauthRouter](https://github.com/d3vobed/oauth-react-router)**  
   - Basic oauth support for react-router package for oauth linking to Facebook, Google, GitHub, LinkedIn and Twitter using developer tokens and axios.
 
 ---
 
 ## Education, Certifications & Publications
 
- - **B.Tech in Cyber Security Science**, *Federal University of Technology, Minna, Nigeria* from `2021 – 2026`  
+ - **B.Tech in Cyber Security Science**, *Federal University of Technology, Minna, Nigeria*  from `2021 – 2026`  
 
 - **HackTheBox Certified Penetration Testing Specialist (CPTS)**, 
     - Issued Feb 2024: *Credential ID HTBCERT-2508B8ABE8*
@@ -58,9 +58,9 @@ He also takes on commissioned and commercial projects, working with select brand
 ##  Experience
 - Full Stack Developer 
     - Icondigital Nigeria `From Jan 2021-Present`
-        - Worked on: Stonerockers NG, Simdozi Limited, PhlexIT Events, Aoahomes NG, Marblefoods NG (Contract)
+        - Worked on: Stonerockers NG, Simdozi Limited, BigHomes NG, Aoahomes NG, Marblefoods NG (Contract)
 - Cloud Engineer (AWS, Unity, EKS)
-    - 234coins.net  – [Upwork](https://www.upwork.com/)  `Dec 2023`
+    - 234coins.net  – [Upwork](https://www.upwork.com/nx/wm/workroom/35638016/details)  `Dec 2023`
 - Security Engineer 
-    - gigafro.com  `From Feb 2024 - Jan 2025`
+    - [GigAfro](www.gigafro.com)  `Feb 2024 - Jan 2025`
 
