@@ -18,9 +18,9 @@ He also takes on commissioned and commercial projects, working with select brand
 ##  Projects & Achievements
 
 - **Vulnerability Research & Exploit Development**  
-  - GraphQL VM allocation bypass – *CodeSandbox*   [Triaged](https://github.com/codesandbox/codesandbox-client/security/advisories/GHSA-5jw5-g7mr-h26r)  
+  - GraphQL VM allocation bypass – *CodeSandbox*    [Triaged](https://github.com/codesandbox/codesandbox-client/security/advisories/GHSA-5jw5-g7mr-h26r)  
   ![Codesandbox](/assets/img/triage.png)
-  - Mobile vulnerability framework and C2 server in Go and C#  
+  - Mobile vulnerability framework and C2 server in Go and C#- [KonoC2](https://github.com/r3syst/konoc2)
 
 - **[Video Storybook](https://github.com/d3vobed/Video-Storybook)- AI Storyboarding Software**  
   - Converts real-world objects into 3D models or photorealistic still image for storyboarding for films using MiDas, Tensor flow, controlNet, skia and Mlkit into wide angled shots, event continuity and dynamic motions from still images.
