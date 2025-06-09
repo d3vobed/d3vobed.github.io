@@ -62,5 +62,5 @@ He also takes on commissioned and commercial projects, working with select brand
 - Cloud Engineer (AWS, Unity, EKS)
     - 234coins.net  – [Upwork](https://www.upwork.com/nx/wm/workroom/35638016/details)  `Dec 2023`
 - Security Engineer 
-    - [GigAfro](www.gigafro.com)  `Feb 2024 - Jan 2025`
+    - [GigAfro](https://gigafro.com)  `Feb 2024 - Jan 2025`
 
