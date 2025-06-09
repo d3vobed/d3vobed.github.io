@@ -50,10 +50,10 @@ platforms:
   #   link: "https://www.threads.net/intent/post?text=TITLE%20URL"
 platforms:
   - type: hackerone
-    image: "/assets/images/h1_mark_white.png"
+    icon: "fa-brands fa-x-hackerone"
     link: "https://hackerone.com/share?text=TITLE&url=URL"
 
 platforms:
   - type: hackthebox
-    image: "/assets/images/hack-the-box.svg"
+    icon: "fa-brands fa-hackthebox"
     link: "https://app.hackthebox.com/submit?text=TITLE&url=URL"

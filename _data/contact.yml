@@ -23,10 +23,8 @@
 
 - type: hackerone
   icon: "fa-brands fa-x-hackerone"
-  image: "/assets/images/hackerone.svg"
   url: "https://hackerone.com/obx"
 
 - type: hackthebox
   icon: "fa-brands fa-hackthebox"
-  image: "/assets/images/hackthebox.svg"
   url: "https://app.hackthebox.com/profile/948976"
