@@ -19,7 +19,6 @@ He also takes on commissioned and commercial projects, working with select brand
 
 - **Vulnerability Research & Exploit Development**  
   - GraphQL VM allocation bypass – *CodeSandbox*    [Triaged](https://github.com/codesandbox/codesandbox-client/security/advisories/GHSA-5jw5-g7mr-h26r)  
-  ![Codesandbox](/assets/img/triage.png)
   - Mobile vulnerability framework and C2 server in Go and C#- [KonoC2](https://github.com/r3syst/konoc2)
 
 - **[Video Storybook](https://github.com/d3vobed/Video-Storybook)- AI Storyboarding Software**  
@@ -56,9 +55,12 @@ He also takes on commissioned and commercial projects, working with select brand
 ---
 
 ##  Experience
-- Full Stack Developer 
+- Senior Web Developer 
     - Icondigital Nigeria `From Jan 2021-Present`
         - Worked on: Stonerockers NG, Simdozi Limited, BigHomes NG, Aoahomes NG, Marblefoods NG (Contract)
+
+- Network System Architect 
+    - PrintPlace `Feb 2023 - Mar 2023`
 - Cloud Engineer (AWS, Unity, EKS)
     - 234coins.net  – [Upwork](https://www.upwork.com/nx/wm/workroom/35638016/details)  `Dec 2023`
 - Security Engineer 
