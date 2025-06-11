@@ -2,10 +2,8 @@
 layout: post
 title: "Scripting with blender"
 description: "Getting Started with the Scripting Workspace and Blender 2.8 Python Scripting Superpowers for Non-Programmers"
-date: 2023-03-21
 tags: [blender, scripting, python]
 image: https://s3.amazonaws.com/cgcookie-rails/uploads%2F1554405206315-1554405206315.png
-author: OBX
 ---
 
 ## All Hail Autocomplete 
