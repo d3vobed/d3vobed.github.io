@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Scripting with blender"
+title: "Scripting With Blender"
 description: "Getting Started with the Scripting Workspace and Blender 2.8 Python Scripting Superpowers for Non-Programmers"
 tags: [blender, scripting, python]
 image: https://s3.amazonaws.com/cgcookie-rails/uploads%2F1554405206315-1554405206315.png
