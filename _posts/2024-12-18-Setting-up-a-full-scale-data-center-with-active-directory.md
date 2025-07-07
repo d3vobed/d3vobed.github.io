@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ad Server Setup Part 1: Tools & Hardware Layout"
-description: "Quick intro to my ad server setup using HP ProLiant, VMware, Cisco, Mikrotik, and more. Covers gear and physical layout."
+description: "Quick intro to my ad server setup using HP ProLiant, VMware esxi, Cisco, Mikrotik Chr, Huawei cloud and more."
 tags: [AD,Lab,Networking,Mitrotik,Cisco,VMware]
 image: assets/ad.png
 ---
