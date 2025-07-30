@@ -6,27 +6,24 @@ order: 4
 
 # **Abang Obed**
 
-Abang Obed is a Software Security Researcher/Indie Filmmaker from Cross River, Nigeria, based in Abuja. His work lies at the intersection of technology and art — where code and cinema collide.
+Abang Obed is a Security Engineer & Indie Filmmaker from Cross River, Nigeria, based in Abuja. His work lies at the intersection of technology and art, where code and film collide.
 
-From age 16, Obed began using programming and photographic storytelling—often through comics—as a way to express unspoken moods and ideas. By 19, he developed a storybook software that uses AI to transform real-world objects into 3D models using still images for storyboarding.
-
-With a core focus on software development and vulnerability research, Obed has identified and patched critical vulnerabilities, developed event-driven applications, and contributed to the broader cybersecurity and computing research community. At the same time, he explores narrative depth using visual storytelling through indie filmmaking and visual effects practices.
+With a core focus on software development and vulnerability research, Obed has identified and patched critical vulnerabilities, developed event-driven applications, and contributed to the cybersecurity and computing research community. At the same time, he explores narrative depth using visual storytelling through indie filmmaking and visual effects practices.
 
 He also takes on commissioned and commercial projects, working with select brands and institutions to deliver impactful, high-quality work.
 
 ---
-##  Projects & Achievements
+##  Projects
 
 - **Vulnerability Research & Exploit Development**  
   - GraphQL VM allocation bypass – *CodeSandbox*    [Triaged](https://github.com/codesandbox/codesandbox-client/security/advisories/GHSA-5jw5-g7mr-h26r)  
-  - Mobile vulnerability framework and C2 server in Go and C#- [KonoC2](https://github.com/r3syst/konoc2)
+ 
+
+- **[Chameleon](https://github.com/d3vobed/chameleon)**  
+  - Volumetric facical scanner using eyeliners to track the facial points for facial replacements for movies. 
 
 - **[Video Storybook](https://github.com/d3vobed/Video-Storybook)- AI Storyboarding Software**  
-  - Converts real-world objects into 3D models or photorealistic still image for storyboarding for films using MiDas, Tensor flow, controlNet, skia and Mlkit into wide angled shots, event continuity and dynamic motions from still images.
-
-
-- **[Rust Mobile E2E](https://github.com/d3vobed/Rust-mobile-e2e)- DeFi Wallet**  
-  - Built an E2E mobile wallet boilerplate with multi-sig support with React Native, Rust and cloudfare edge.
+  - Converts real-world objects into 3D models or photorealistic still image for storyboarding for films using MiDas, Tensor flow and controlNet converting to wide angled shots, event continuity and dynamic motions from still images.
 
 - **[Soccer Behavioural Analysis](https://github.com/d3vobed/SBA)- SBA**  
   - Soccer Behavioral Analysis is a mobile analysis app based on monitoring players on real time soccer matches to check for mood changes during a game to find and predict fouls, tackles (both lost and successful) and pick out players who would likely leave on loan, free or increase their market value through a certain match.
@@ -34,8 +31,8 @@ He also takes on commissioned and commercial projects, working with select brand
 - **[Azure Stack](https://github.com/d3vobed/Azure-stack-ussd) USSD service**  
   - Scalable USSD Service Using Azure Stack Hub for Enterprise Mobile Access to USSD services on network with africastalking.
 
-- **[SnapBleBLE](https://github.com/d3vobed/snapBLE)- Bluetooth Video Calling Protocol**  
-  - P2P, Low resolution and snap bitrate implementation of Bluetooth video calling protocol using C and low BLE Mesh.
+- **[circles](https://github.com/d3vobed/snapBLE)- Bluetooth Video Calling Protocol**  
+  - P2P, Low resolution and snap bitrate implementation of bluetooth video calling protocol just as bitchat but for videos.
 
 
 - **[React-OauthRouter](https://github.com/d3vobed/oauth-react-router)**  
@@ -50,19 +47,32 @@ He also takes on commissioned and commercial projects, working with select brand
 - **HackTheBox Certified Penetration Testing Specialist (CPTS)**, 
     - Issued Feb 2024: *Credential ID HTBCERT-2508B8ABE8*
 
-- Technical paper on bluetooth p2p calling on low-ble mesh structure — *(Available Soon)* 
+
+- **[Dementia-Chatbot](https://github.com/d3vobed/conversationalai)**  
+  - AI chatbot for dementia based patients with emotions fine tuning, cognitive games, reminders and memory aid, with multi-lang and speech-to-tts support.
+
+
+- **Autobot OS**  
+  - Python and C++ based operating system for file management, retrieval, scan and administrative tasks.
+
+  - **[AFTNStreamDecoder](https://github.com/d3vobed/aftnstreamdecoder)**  
+  - Decoder for ATS Messages for Emergency Signal Intelligence integrated with Machine Learning for accuracy tests.
 
 ---
 
 ##  Experience
-- Senior Web Developer 
-    - Icondigital Nigeria `From Jan 2021-Present`
-        - Worked on: Stonerockers NG, Simdozi Limited, BigHomes NG, Aoahomes NG, Marblefoods NG (Contract)
-
 - Network System Architect 
     - PrintPlace `Feb 2023 - Mar 2023`
+
 - Cloud Engineer (AWS, Unity, EKS)
     - 234coins.net  – [Upwork](https://www.upwork.com/nx/wm/workroom/35638016/details)  `Dec 2023`
+
 - Security Engineer 
     - [GigAfro](https://gigafro.com)  `Feb 2024 - Jan 2025`
 
+- Senior Web Developer 
+    - Icondigital Nigeria `From Jan 2021-May 2025`
+        - Worked on: Stonerockers NG, Simdozi Limited, BigHomes NG, Aoahomes NG, Marblefoods NG (Contract)
+
+- Security Operations Intern 
+    - National Emergency Management Agency `From Jun 2025 - Nov 2025`

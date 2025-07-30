@@ -48,12 +48,3 @@ platforms:
   # - type: Threads
   #   icon: "fa-brands fa-square-threads"
   #   link: "https://www.threads.net/intent/post?text=TITLE%20URL"
-platforms:
-  - type: hackerone
-    icon: "fa-brands fa-x-hackerone"
-    link: "https://hackerone.com/share?text=TITLE&url=URL"
-
-platforms:
-  - type: hackthebox
-    icon: "fa-brands fa-hackthebox"
-    link: "https://app.hackthebox.com/submit?text=TITLE&url=URL"

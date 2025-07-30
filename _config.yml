@@ -37,11 +37,6 @@ instagram:
 youtube:
   username: techcinemaresyst
 
-hackerone:
-  username: obx
-
-hackthebox:
-  username: 948976
 
 social:
   name: Obed Abang
@@ -49,12 +44,9 @@ social:
   links:
     - https://twitter.com/obedeee_Jr
     - https://github.com/d3vobed
-    - https://www.hackerone.com/obx
     - https://www.linkedin.com/in/obx03
     - https://www.instagram.com/obed.eee
     - https://www.youtube.com/@techcinemaresyst
-    - https://app.hackthebox.com/profile/948976
-    - https://ctftime.org/user/303681
     
     # Site Verification Settings
 webmaster_verifications:
